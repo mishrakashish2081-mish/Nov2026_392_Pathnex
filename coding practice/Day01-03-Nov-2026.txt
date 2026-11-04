@@ -1,0 +1,2 @@
+Since it was day 4 of the November batch, we have been studying and practising Linux and Git commands. 
+Going further, we'll also get hands-on-experience in coding. 
