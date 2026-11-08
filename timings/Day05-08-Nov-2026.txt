@@ -1,0 +1,4 @@
+Attended morning class from 7:00AM-10:20AM.
+Went through the AWS concepts that was taught in the morning for an hour.
+Performed assigned git task for an hour.
+
