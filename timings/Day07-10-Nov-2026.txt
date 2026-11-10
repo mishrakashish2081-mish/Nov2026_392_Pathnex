@@ -1,0 +1,6 @@
+Attended morning session from 7:00AM-10:45AM.
+Went through the Docker topics for 2 hours.
+Performed troubleshooting and practised creating docker file, docker image and docker container for about 3 and 1\2 to 4 hours.
+Prepared for evening class for 1 hour.
+Worked on git task for 1 hour.
+
