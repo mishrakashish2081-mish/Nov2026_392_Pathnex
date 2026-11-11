@@ -1,2 +1,0 @@
-Performed troubleshooting and practised creating docker file, docker image and docker container for about 3 and 1\2 to 4 hours.
-Worked on git task for 1 hour.
