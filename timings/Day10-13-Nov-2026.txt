@@ -1,0 +1,9 @@
+Attended morning session for 3 and 1\2 hours.
+Practised K8s cluster for around 2 hours.
+Went through the theoretical topics for 1 hour.
+Watched K8s video for 2 hours.
+Prepared for an evening class for 1\2 an hour.
+Attended evening class for 1\2 an hour.
+Worked on the video for 1 hour.
+Worked on the assigned git task for 1 hour.
+
