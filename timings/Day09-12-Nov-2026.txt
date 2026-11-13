@@ -1,0 +1,9 @@
+Attended morning session from 7:00AM-10:20AM.
+AWS cofiguration in powershell took 1 and 1\2 an hour.
+Studied the concepts and flowchart that was discussed this morning for 2 hours.
+Worked on the video for 1 hour.
+Prepared for evening class for 1\2 an hour.
+Attended evening class from 7:30PM-8:00PM.
+Worked on the assigned git task for 45 mins.
+Watched k8s upgrade video for 2 hours.
+
