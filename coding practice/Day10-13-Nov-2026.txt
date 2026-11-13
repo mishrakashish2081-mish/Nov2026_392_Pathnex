@@ -1,0 +1,3 @@
+Tried working on K8s cluster.
+Worked on the video.
+Worked on the assigned git task.
