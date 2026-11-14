@@ -1,6 +1,0 @@
-Attended morning session from 7:00AM-10:20AM.
-Went through the Kubernetes topics for 1 hour.
-Performed troubleshooting and practised creating docker file, docker image and docker container for about 3 hours.
-Worked on the intro video for 2 hours.
-Prepared for evening class for 1 hour.
-Worked on git task for 1 hour.
