@@ -1,4 +1,0 @@
-
-Performed troubleshooting and practised creating docker file, docker image and docker container.
-Worked on the intro video.
-Worked on git task.
