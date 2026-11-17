@@ -1,0 +1,10 @@
+Attended morning class from 7:00 AM-10:00 AM.
+Went through old videos of K8s for about 3 and 1\2 an hour.
+Went through the topic that was taught in the morning for 2 hours.
+Went through the YAML files of the K8s ckuster that was shared on git for 1\2 an hour.
+Worked on the intro video for 1\2 an hour.
+Prepared for evevning class for 1\2 an hour.
+Attended evening class for 1\2 an hour.
+Worked on the assigned git task for 1\2 an hour.
+Went through the topic that was taught in the morning fir 1\2 an hour.
+
