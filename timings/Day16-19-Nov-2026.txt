@@ -1,0 +1,7 @@
+Attended mornong class from 7:00AM-10:00AM.
+Practised linux and terraform commands for 2 hours.
+Went through the terraform notes for 1 hour.
+Worked pon intro video for 1\2 an hour.
+Prepared for evevning class for 1\2 an hour.
+Attended evevning class for 1\2 an hour.
+Worked on the assigned git task for 1\2 an hour.
