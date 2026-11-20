@@ -1,0 +1,3 @@
+Watched YT videos and practised on setting up K8s via Terraform.
+Worked on the intro video.
+Worked on the assigned git task.
