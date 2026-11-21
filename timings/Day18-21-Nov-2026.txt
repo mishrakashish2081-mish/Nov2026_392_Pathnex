@@ -1,0 +1,8 @@
+Attended morning class from 7:00 AM-11:00 AM.
+Practised K8s for 1 hour.
+Went through Linux commands for 1 hour.
+Went through New Relic for 2 hours.
+Attended evening class for 40 mins.
+Worked on the intro video for 1\2 an hour.
+Worked on the assigned git task for 1\2 an hour.
+
