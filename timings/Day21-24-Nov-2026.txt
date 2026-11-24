@@ -1,0 +1,8 @@
+Attended morning session from 7:00 AM-10:00 AM.
+Worked on docker for 1 hour.
+Went through the ELK Stack for 2 hours.
+Worked on the assigned Kibana dashboard task for 2 hours.
+Prepared for evening class for 1\2 an hour.
+Attended evening class for 1\2 an hour.
+Worked on the intro video 1\2 an hour.
+Worked on the assigned git task for 1\2 an hour.
