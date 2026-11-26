@@ -1,0 +1,4 @@
+Practised on setting up K8s cluster, helm and integrated the cluster with Argo CD.
+Worked on the intro video.
+Worked on the assigned git task.
+
