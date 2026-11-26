@@ -1,0 +1,8 @@
+Attended morning class from 7:00 AM-9:40 AM.
+Went through the Kafka concepts for 2 hours.
+Went through AWS concepts for 1 hour.
+Went through Terraform concepts for 1 hour.
+Prepared for evening class for 1\2 an hour.
+Attended evening class for 1\2 an hour.
+Went through the K8s concepts for 1\2 an hour.
+
