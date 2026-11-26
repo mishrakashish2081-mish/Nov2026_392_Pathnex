@@ -1,0 +1,9 @@
+Attended morning class from 7:00 AM - 11:30 AM.
+Worked on the New Relic integration for about 2 hours.
+Worked on the intro video for 1\2 an hour.
+Worked on the assigned git task for 1\2 an hour.
+Went through the CI\CD for 1 hour. 
+Prepared for 1\2 an hour.
+Attended for 1\2 an hour.
+Went through the practical session for 2 hours.
+
