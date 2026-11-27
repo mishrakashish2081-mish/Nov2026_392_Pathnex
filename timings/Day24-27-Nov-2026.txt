@@ -1,0 +1,9 @@
+Attended morning class from 7:00 AM-8:40 AM.
+Went through Terraform concepts foir 2 hours.
+Went through SRE for 1 hour.
+Worked on SSL for 2 and 1\2 an hour.
+Prepared for evening class for 1\2 an hour.
+Attended evening class for 1\2 an hour.
+Worked on the intro video for 1\2 an hour.
+Worked on the assigned git task for 1\2 an hour.
+
