@@ -1,0 +1,8 @@
+Attended morning class from 7:00AM-8:30AM.
+Went through Security tools for 2 hours.
+Practised docker for 2 hours.
+Went through K8s commands for 1\2 an hour.
+Prepared for evening class for 1\2 an hour.
+Attended evening class for 1\2 an hour.
+Worked on the intro video 1\2 an hour.
+Worked on the assigned git task for 1\2 an hour.
